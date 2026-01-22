@@ -1,1 +1,0 @@
-# Safepay-BNPL-HTML-app
